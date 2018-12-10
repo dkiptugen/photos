@@ -1,0 +1,67 @@
+ERROR - 2018-01-15 08:19:13 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 496
+ERROR - 2018-01-15 09:50:07 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:50:09 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:50:09 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:50:10 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:50:10 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:50:15 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:50:16 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:51:29 --> Severity: Error --> Call to undefined method Merchant_model::archiveedition() /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 395
+ERROR - 2018-01-15 09:52:46 --> Severity: Parsing Error --> syntax error, unexpected '->' (T_OBJECT_OPERATOR) /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 396
+ERROR - 2018-01-15 09:53:32 --> Severity: Parsing Error --> syntax error, unexpected '->' (T_OBJECT_OPERATOR) /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 396
+ERROR - 2018-01-15 09:54:21 --> Severity: Parsing Error --> syntax error, unexpected '$result' (T_VARIABLE) /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 398
+ERROR - 2018-01-15 09:55:14 --> Severity: Parsing Error --> syntax error, unexpected '$result' (T_VARIABLE) /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 398
+ERROR - 2018-01-15 09:55:50 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO) /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 397
+ERROR - 2018-01-15 09:56:23 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO) /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 397
+ERROR - 2018-01-15 09:56:27 --> Severity: Parsing Error --> syntax error, unexpected 'echo' (T_ECHO) /home/standard_digital/httpdocs/magazines/application/controllers/Merchant.php 397
+ERROR - 2018-01-15 10:06:35 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 518
+ERROR - 2018-01-15 10:08:55 --> Severity: error --> Exception: /home/standard_digital/httpdocs/magazines/application/models/Home_model.php exists, but doesn't declare class Home_model /home/standard_digital/httpdocs/magazines/system/core/Loader.php 336
+ERROR - 2018-01-15 10:46:30 --> Severity: Parsing Error --> syntax error, unexpected '}' /home/standard_digital/httpdocs/magazines/application/views/includes/header-backend.php 23
+ERROR - 2018-01-15 11:47:33 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 546
+ERROR - 2018-01-15 11:55:04 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 546
+ERROR - 2018-01-15 11:55:33 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 546
+ERROR - 2018-01-15 12:56:54 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 546
+ERROR - 2018-01-15 12:57:20 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 546
+ERROR - 2018-01-15 12:59:16 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 546
+ERROR - 2018-01-15 13:05:27 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 546
+ERROR - 2018-01-15 13:27:19 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 14:18:59 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:27 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:28 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:28 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:28 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:40 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:40 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:41 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:41 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:55 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:55 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:56 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:50:56 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:51:54 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:51:54 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:51:54 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 15:51:55 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:04:04 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:04:04 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:13:41 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:13:41 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:13:41 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:13:42 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:14:00 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:15:02 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:15:52 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:15:53 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:15:53 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:15:54 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:17:31 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:17:31 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:17:31 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:17:32 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:21:54 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:21:55 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:21:55 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:21:55 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:24:28 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:24:29 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-15 16:24:29 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177

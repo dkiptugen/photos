@@ -1,0 +1,9 @@
+ERROR - 2018-01-17 11:09:16 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-17 11:15:51 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-17 11:15:52 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-17 11:15:52 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-17 11:15:52 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 177
+ERROR - 2018-01-17 14:12:46 --> Unable to connect to the database
+ERROR - 2018-01-17 14:12:46 --> Unable to connect to the database
+ERROR - 2018-01-17 14:12:46 --> Query error: Access denied for user 'epaper_user'@'localhost' to database 'standard_epaper_app' - Invalid query: SELECT *
+FROM `m_genres`

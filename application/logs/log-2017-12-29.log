@@ -1,0 +1,24 @@
+ERROR - 2017-12-29 09:13:04 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2017-12-29 09:13:04 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2017-12-29 09:13:04 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2017-12-29 09:13:30 --> Severity: Notice --> Undefined variable: data /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 104
+ERROR - 2017-12-29 09:13:30 --> Severity: Warning --> Invalid argument supplied for foreach() /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 84
+ERROR - 2017-12-29 11:42:14 --> Query error: Column 'o_ordernumber' cannot be null - Invalid query: INSERT INTO `m_orders` (`o_ordernumber`, `o_rowid`, `o_itemid`, `o_amount`, `o_userid`, `o_startdate`, `o_enddate`) VALUES (NULL, '8418334da60d3ef48f0356a121acb78c', '19', 100, 44162, '2017-12-29 11:42:14', '2017-12-29 00:00:00')
+ERROR - 2017-12-29 11:42:14 --> Query error: Column 'o_ordernumber' cannot be null - Invalid query: INSERT INTO `m_orders` (`o_ordernumber`, `o_rowid`, `o_itemid`, `o_amount`, `o_userid`, `o_startdate`, `o_enddate`) VALUES (NULL, 'f4b99b246f7677b2fbe4a191972583f1', '10', 1000, 44162, '2017-12-29 11:42:14', '2017-12-29 00:00:00')
+ERROR - 2017-12-29 11:42:14 --> Query error: Column 'o_ordernumber' cannot be null - Invalid query: INSERT INTO `m_orders` (`o_ordernumber`, `o_rowid`, `o_itemid`, `o_amount`, `o_userid`, `o_startdate`, `o_enddate`) VALUES (NULL, 'b2c935ba3855a67c0a0b66033f4fe535', '9', 40, 44162, '2017-12-29 11:42:14', '2017-12-29 00:00:00')
+ERROR - 2017-12-29 11:43:11 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`standard_epaper_app`.`m_payments`, CONSTRAINT `m_payments_ibfk_1` FOREIGN KEY (`p_orderid`) REFERENCES `m_subscription` (`orderid`) ON DELETE CASCADE ON UPDATE CASCADE) - Invalid query: INSERT INTO `m_payments` (`p_orderid`, `paymentmode`, `identifier`, `ref`, `currency`, `amount`) VALUES (0, 'paypal', 'denkip207@yahoo.com', '34af4d839e4e6', 'USD', '0.01')
+ERROR - 2017-12-29 12:41:07 --> Query error: Unknown column 'telephone_no' in 'field list' - Invalid query: UPDATE `m_users` SET telephone_no = CONCAT(`telephone_no`,'0713148129;')
+WHERE `userID` = 44162
+ERROR - 2017-12-29 12:41:24 --> Query error: Unknown column 'telephone_no' in 'field list' - Invalid query: UPDATE `m_users` SET telephone_no = CONCAT(`telephone_no`,'0713148129;')
+WHERE `userID` = 44162
+ERROR - 2017-12-29 13:15:54 --> 404 Page Not Found: M_checkout/index
+ERROR - 2017-12-29 18:28:32 --> 404 Page Not Found: Assets/css
+ERROR - 2017-12-29 18:28:32 --> 404 Page Not Found: Assets/css
+ERROR - 2017-12-29 18:28:32 --> 404 Page Not Found: Assets/css
+ERROR - 2017-12-29 18:28:33 --> 404 Page Not Found: Assets/css
+ERROR - 2017-12-29 18:28:33 --> 404 Page Not Found: Assets/css
+ERROR - 2017-12-29 18:28:33 --> 404 Page Not Found: Assets/css
+ERROR - 2017-12-29 18:28:33 --> 404 Page Not Found: Assets/css

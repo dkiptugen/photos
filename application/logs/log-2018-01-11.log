@@ -1,0 +1,36 @@
+ERROR - 2018-01-11 08:33:44 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 165
+ERROR - 2018-01-11 08:34:09 --> 404 Page Not Found: Merchant/country_autoload
+ERROR - 2018-01-11 08:35:24 --> 404 Page Not Found: Merchant/country_autoload
+ERROR - 2018-01-11 08:36:34 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 172
+ERROR - 2018-01-11 08:36:34 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 172
+ERROR - 2018-01-11 08:36:35 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 172
+ERROR - 2018-01-11 08:36:36 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 172
+ERROR - 2018-01-11 08:36:50 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 08:36:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's America'  where ID=243' at line 1 - Invalid query: update m_publications  set publication_title ='Trump's America'  where ID=243
+ERROR - 2018-01-11 08:37:32 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 08:41:06 --> 404 Page Not Found: Merchant/country_autoload
+ERROR - 2018-01-11 09:21:53 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-11 09:22:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-11 09:22:06 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-11 09:22:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-11 10:08:43 --> 404 Page Not Found: Details/index
+ERROR - 2018-01-11 10:36:44 --> 404 Page Not Found: Merchant/country_autoload
+ERROR - 2018-01-11 14:21:44 --> 404 Page Not Found: Seller_details/68679
+ERROR - 2018-01-11 14:22:09 --> 404 Page Not Found: Sellers/68679
+ERROR - 2018-01-11 14:22:15 --> 404 Page Not Found: Sellers/68679
+ERROR - 2018-01-11 14:33:32 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 14:33:48 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 14:39:14 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 14:41:01 --> 404 Page Not Found: Merchant/country_autoload
+ERROR - 2018-01-11 14:41:34 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 15:20:27 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 16:37:03 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 16:37:14 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 16:50:46 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 16:51:18 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 16:51:51 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 16:52:11 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 16:53:48 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 17:07:33 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 17:10:26 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424
+ERROR - 2018-01-11 17:12:49 --> Severity: Warning --> unlink(): No such file or directory /home/standard_digital/httpdocs/magazines/application/models/Merchant_model.php 424

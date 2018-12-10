@@ -1,0 +1,20 @@
+ERROR - 2018-01-02 08:20:50 --> Severity: Error --> Cannot use object of type stdClass as array /home/standard_digital/httpdocs/magazines/application/controllers/Home.php 165
+ERROR - 2018-01-02 08:20:50 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2018-01-02 08:20:50 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2018-01-02 08:20:50 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2018-01-02 21:48:02 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:03 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-01-02 21:48:04 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:05 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-01-02 21:48:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-01-02 21:48:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:09 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:10 --> 404 Page Not Found: Assets/css
+ERROR - 2018-01-02 21:48:11 --> 404 Page Not Found: Assets/css

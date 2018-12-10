@@ -1,0 +1,65 @@
+INFO - 2017-12-27 15:50:04 --> Config Class Initialized
+INFO - 2017-12-27 15:50:04 --> Hooks Class Initialized
+DEBUG - 2017-12-27 15:50:04 --> UTF-8 Support Enabled
+INFO - 2017-12-27 15:50:04 --> Utf8 Class Initialized
+INFO - 2017-12-27 15:50:04 --> URI Class Initialized
+INFO - 2017-12-27 15:50:04 --> Router Class Initialized
+INFO - 2017-12-27 15:50:04 --> Output Class Initialized
+INFO - 2017-12-27 15:50:04 --> Security Class Initialized
+DEBUG - 2017-12-27 15:50:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-12-27 15:50:04 --> Input Class Initialized
+INFO - 2017-12-27 15:50:04 --> Language Class Initialized
+INFO - 2017-12-27 15:50:04 --> Loader Class Initialized
+INFO - 2017-12-27 15:50:04 --> Helper loaded: url_helper
+INFO - 2017-12-27 15:50:04 --> Helper loaded: file_helper
+INFO - 2017-12-27 15:50:04 --> Database Driver Class Initialized
+INFO - 2017-12-27 15:50:04 --> Email Class Initialized
+DEBUG - 2017-12-27 15:50:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-12-27 15:50:04 --> Session: Class initialized using 'files' driver.
+DEBUG - 2017-12-27 15:50:04 --> Session class already loaded. Second attempt ignored.
+INFO - 2017-12-27 15:50:04 --> Cart Class Initialized
+INFO - 2017-12-27 15:50:04 --> Controller Class Initialized
+INFO - 2017-12-27 15:50:04 --> Model Class Initialized
+INFO - 2017-12-27 15:50:04 --> Model Class Initialized
+DEBUG - 2017-12-27 15:50:04 --> Cart class already loaded. Second attempt ignored.
+DEBUG - 2017-12-27 15:50:04 --> Config file loaded: /home/standard_digital/httpdocs/magazines/application/config/mpesa.php
+INFO - 2017-12-27 15:50:06 --> Final output sent to browser
+DEBUG - 2017-12-27 15:50:06 --> Total execution time: 2.0290
+INFO - 2017-12-27 15:50:21 --> Config Class Initialized
+INFO - 2017-12-27 15:50:21 --> Hooks Class Initialized
+DEBUG - 2017-12-27 15:50:21 --> UTF-8 Support Enabled
+INFO - 2017-12-27 15:50:21 --> Utf8 Class Initialized
+INFO - 2017-12-27 15:50:21 --> URI Class Initialized
+INFO - 2017-12-27 15:50:21 --> Router Class Initialized
+INFO - 2017-12-27 15:50:21 --> Output Class Initialized
+INFO - 2017-12-27 15:50:21 --> Security Class Initialized
+DEBUG - 2017-12-27 15:50:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-12-27 15:50:21 --> Input Class Initialized
+INFO - 2017-12-27 15:50:21 --> Language Class Initialized
+INFO - 2017-12-27 15:50:21 --> Loader Class Initialized
+INFO - 2017-12-27 15:50:21 --> Helper loaded: url_helper
+INFO - 2017-12-27 15:50:21 --> Helper loaded: file_helper
+INFO - 2017-12-27 15:50:21 --> Database Driver Class Initialized
+INFO - 2017-12-27 15:50:21 --> Email Class Initialized
+DEBUG - 2017-12-27 15:50:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-12-27 15:50:21 --> Session: Class initialized using 'files' driver.
+DEBUG - 2017-12-27 15:50:21 --> Session class already loaded. Second attempt ignored.
+INFO - 2017-12-27 15:50:21 --> Cart Class Initialized
+INFO - 2017-12-27 15:50:21 --> Controller Class Initialized
+INFO - 2017-12-27 15:50:21 --> Model Class Initialized
+INFO - 2017-12-27 15:50:21 --> Model Class Initialized
+DEBUG - 2017-12-27 15:50:21 --> Cart class already loaded. Second attempt ignored.
+INFO - 2017-12-27 15:50:21 --> Final output sent to browser
+DEBUG - 2017-12-27 15:50:21 --> Total execution time: 0.0337
+ERROR - 2017-12-27 16:10:31 --> Severity: Notice --> Trying to get property of non-object /home/standard_digital/httpdocs/magazines/application/libraries/Mpesa.php 25
+ERROR - 2017-12-27 16:11:59 --> Severity: Notice --> Trying to get property of non-object /home/standard_digital/httpdocs/magazines/application/libraries/Mpesa.php 25
+ERROR - 2017-12-27 16:12:32 --> Severity: Notice --> Trying to get property of non-object /home/standard_digital/httpdocs/magazines/application/libraries/Mpesa.php 25
+ERROR - 2017-12-27 16:12:40 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2017-12-27 16:12:40 --> Severity: Error --> Call to a member function result() on a non-object /home/standard_digital/httpdocs/magazines/application/models/Home_model.php 14
+ERROR - 2017-12-27 16:12:40 --> Query error: MySQL server has gone away - Invalid query: SELECT *
+FROM `m_genres`
+ERROR - 2017-12-27 16:12:40 --> Severity: Error --> Call to a member function result() on a non-object /home/standard_digital/httpdocs/magazines/application/models/Home_model.php 14
+ERROR - 2017-12-27 16:12:47 --> Severity: Notice --> Trying to get property of non-object /home/standard_digital/httpdocs/magazines/application/libraries/Mpesa.php 25
+ERROR - 2017-12-27 16:15:00 --> Severity: Notice --> Trying to get property of non-object /home/standard_digital/httpdocs/magazines/application/libraries/Mpesa.php 25
+ERROR - 2017-12-27 16:15:42 --> Severity: Notice --> Trying to get property of non-object /home/standard_digital/httpdocs/magazines/application/libraries/Mpesa.php 25
